@@ -1,0 +1,35 @@
+OPPS
+- The programs which are developed by using Object Oriented Principles such as Encapsulation, Inheritance, Polymorphism.
+- Pillars
+  1. Class
+  2. Object
+  3. Abstraction
+  4. Encapsulation
+  5. Inheritance
+  6. Polymorphism
+
+Class
+- Class is a collection of states and behaviour.
+
+Object
+- Object is instance of a class.
+- Any entity that has a state and behaviour.
+- Eg. Dog.
+
+Encapsulation
+- Binding of data members and member functions(Logical Concept).
+- Practically possible using keyword 'class'.
+
+Inheritance
+- Creating new class by taking the properties of an already defined class.
+
+Polymorphism
+- Alibily to generate more than one form.
+
+Abstraction
+- Hiding internal details and showing functionality.
+- Eg. Phone Call, ATM Cash Withdrawl.
+- Practically achieved using 'abstract class' and 'interface'.
+
+Constructor
+- It is the initializer method used for object instantiation and object initialization.
